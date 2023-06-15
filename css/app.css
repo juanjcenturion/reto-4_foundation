@@ -1,0 +1,24 @@
+.top-bar, li, #nav-right{
+    background-color: #212529;
+    
+}
+
+.topbar-responsive .menu a {
+    color: #a2a4a7;
+    transition: color 0.15s ease-in;
+}
+
+.fondo{
+    background-image:linear-gradient(rgba(0,0,0, 0.7), #1e2326), url(../resources/Background-motor.jpg);
+    max-width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.banner-container-subtitle{
+    padding-top: 9%;
+}
+.banner-container-button{
+    padding-top: 1%;
+}
