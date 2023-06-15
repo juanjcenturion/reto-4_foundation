@@ -22,3 +22,26 @@
 .banner-container-button{
     padding-top: 1%;
 }
+
+/* este es el codigo css de categories */
+
+.card {
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 2%;
+    border-style: solid;
+    border: 1%;
+    border-color: rgb(220,53,69);
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.categories-title {
+    padding: 5%;
+    
+}
+
+.card h5{
+    color: rgb(220,53,69);
+}
+
+
