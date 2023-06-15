@@ -26,7 +26,7 @@
 /* este es el codigo css de categories */
 
 .card {
-    max-width: 100%;
+    width: 105%;
     max-height: 100%;
     border-radius: 2%;
     border-style: solid;
