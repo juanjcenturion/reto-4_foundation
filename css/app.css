@@ -27,12 +27,12 @@
 
 .card {
     width: 105%;
-    max-height: 100%;
     border-radius: 2%;
     border-style: solid;
     border: 1%;
     border-color: rgb(220,53,69);
     box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    margin-bottom: 1rem;
 }
 
 .categories-title {
@@ -44,4 +44,13 @@
     color: rgb(220,53,69);
 }
 
+/* este es el codigo css de categories y aplica para las otras clases de categorias */
 
+
+#button-Agregar {
+    margin-left: 33%; /* Agrega margen a la derecha del botón */
+  }
+
+.button-group a{
+    border-radius: 10%;
+}
