@@ -23,6 +23,28 @@
     padding-top: 1%;
 }
 
+/* footer estilo */
+
+.footer {
+    padding: 1rem;
+    margin-top: 30%;
+    border:#1e2326 10px;
+    
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+.footer span{
+    color:rgb(158, 158, 158);
+    font-weight: bolder;
+}
+
 /* este es el codigo css de categories */
 
 .card {
