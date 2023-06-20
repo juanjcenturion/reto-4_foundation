@@ -64,6 +64,10 @@
     margin-bottom: 1rem;
 }
 
+.card img{
+    margin: 10%;
+}
+
 .categories-title {
     padding: 5%;
     
