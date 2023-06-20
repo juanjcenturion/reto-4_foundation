@@ -1,3 +1,4 @@
+
 .top-bar, li, #nav-right{
     background-color: #212529;
     
@@ -23,6 +24,12 @@
     padding-top: 1%;
 }
 
+#headline-off{
+    padding-top: 5%;
+}
+.alert{
+    color: #cc4b37;
+}
 /* footer estilo */
 
 .footer {
