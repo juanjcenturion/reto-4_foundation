@@ -23,7 +23,6 @@
 .banner-container-button{
     padding-top: 1%;
 }
-
 #headline-off{
     padding-top: 5%;
     padding-bottom: 3%;
@@ -33,9 +32,21 @@
 }
 /* footer estilo */
 
+.footer span{
+    color:rgb(158, 158, 158);
+    font-weight: bolder;
+}
+
+.text-oferts{
+    color:#cc4b37;
+}
+hr{
+    padding-top: 3%;
+}
+
 .footer {
     padding: 1rem;
-    margin-top: 30%;
+    margin-top: 10%;
     border:#1e2326 10px;
     
     display: -webkit-flex;
@@ -48,11 +59,6 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
 }
-.footer span{
-    color:rgb(158, 158, 158);
-    font-weight: bolder;
-}
-
 /* este es el codigo css de categories */
 
 .card-categories {
