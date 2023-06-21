@@ -26,6 +26,7 @@
 
 #headline-off{
     padding-top: 5%;
+    padding-bottom: 3%;
 }
 .alert{
     color: #cc4b37;
@@ -54,7 +55,7 @@
 
 /* este es el codigo css de categories */
 
-.card {
+.card-categories {
     width: 105%;
     border-radius: 2%;
     border-style: solid;
@@ -63,11 +64,22 @@
     margin-bottom: 1rem;
 }
 
+.card-products {
+    width: 105%;
+    box-shadow: 1px 1px 1px  rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+}
+
+.card-products {
+    width: 105%;
+    box-shadow: 1px 1px 1px  rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+}
+
 .categories-title {
     padding: 5%;
     
 }
-
 
 /* este es el codigo css de categories y aplica para las otras clases de categorias */
 
