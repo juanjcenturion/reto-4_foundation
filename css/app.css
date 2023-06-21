@@ -92,5 +92,14 @@ hr{
 }
 
 .title-categories {
-    color: red;
+    color: #cc4b37;
+}
+
+/* Contact CSS */
+
+.mail-cell {
+    margin-bottom: 1.25rem; /* Ajusta el valor según sea necesario */
+}
+.contacto {
+    color: #cc4b37;
 }
