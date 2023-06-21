@@ -46,17 +46,10 @@ hr{
 
 .footer {
     padding: 1rem;
-    margin-top: 10%;
+    margin-top: 15%;
     border:#1e2326 10px;
-    
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-align-items: center;
-    -ms-flex-align: center;
     align-items: center;
-    -webkit-justify-content: space-between;
-    -ms-flex-pack: justify;
     justify-content: space-between;
 }
 /* este es el codigo css de categories */
