@@ -1,3 +1,4 @@
+
 .top-bar, li, #nav-right{
     background-color: #212529;
     
@@ -22,10 +23,38 @@
 .banner-container-button{
     padding-top: 1%;
 }
+#headline-off{
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+.alert{
+    color: #cc4b37;
+}
+/* footer estilo */
 
+.footer span{
+    color:rgb(158, 158, 158);
+    font-weight: bolder;
+}
+
+.text-oferts{
+    color:#cc4b37;
+}
+hr{
+    padding-top: 3%;
+}
+
+.footer {
+    padding: 1rem;
+    margin-top: 15%;
+    border:#1e2326 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
 /* este es el codigo css de categories */
 
-.card {
+.card-categories {
     width: 105%;
     border-radius: 2%;
     border-style: solid;
@@ -34,11 +63,17 @@
     margin-bottom: 1rem;
 }
 
+.card-products {
+    width: 105%;
+    box-shadow: 1px 1px 1px  rgba(0, 0, 0, 0.2);
+    margin-bottom: 1rem;
+}
+
+
 .categories-title {
     padding: 5%;
     
 }
-
 
 /* este es el codigo css de categories y aplica para las otras clases de categorias */
 
@@ -57,7 +92,16 @@
 }
 
 .title-categories {
-    color: red;
+    color: #cc4b37;
+}
+
+/* Contact CSS */
+
+.mail-cell {
+    margin-bottom: 1.25rem; /* Ajusta el valor según sea necesario */
+}
+.contacto {
+    color: #cc4b37;
 }
 
 /* codigo de sobreNosotros*/
