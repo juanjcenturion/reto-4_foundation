@@ -106,6 +106,12 @@ hr{
 
 /* codigo de sobreNosotros*/
 
-#title-sobrenosotros {
-    padding: 10%;
+#Title-SN {
+    padding: 5%;
+}
+
+#Text-SN{
+    max-width: 80%;
+    margin-left: 10%;
+    padding-top: 10%;
 }
